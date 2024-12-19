@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maheen Khan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate AI/ML Engineer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Web and Mobile Application Development**
 
-- 👯 I’m looking to collaborate on **Frontend Development Projects**
+- 👯 I’m looking to collaborate on **AI/ML Development Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/maheeen-khan?tab=repositories](https://github.com/maheeen-khan?tab=repositories)
 
