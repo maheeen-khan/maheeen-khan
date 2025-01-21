@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer from Pakistan</h3>
 
 
-- 👯 I’m looking to collaborate on **Data Science & Web Development Projects**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/maheeen-khan?tab=repositories](https://github.com/maheeen-khan?tab=repositories)
 
