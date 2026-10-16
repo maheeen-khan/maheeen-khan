@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maheen Khan</h1>
-<h3 align="center">> *Software Engineering @ UBIT | Frontend-Focused Full Stack Developer*</h3>
+<h3 align="center"> Software Engineering @ UBIT | Frontend-Focused Full Stack Developer</h3>
 
 
 - ⚡ **Specialization:** Transforming design concepts into clean, modular UI components using **React** & **MERN Stack**  
