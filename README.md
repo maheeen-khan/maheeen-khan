@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Maheen Khan</h1>
-<h3 align="center">A passionate Full Stack (Frontend) Developer from Pakistan</h3>
+<h3 align="center">> *Software Engineering @ UBIT | Frontend-Focused Full Stack Developer*</h3>
 
 
-- 🌱 I’m currently learning **Web and Mobile Application Development**
+- ⚡ **Specialization:** Transforming design concepts into clean, modular UI components using **React** & **MERN Stack**  
+- 🛠️ **Tech Stack:** React.js, JavaScript (ES6+), HTML5/CSS3, Tailwind CSS, Node.js, Express.js, MongoDB, Git  
+- 🌱 **Currently Exploring:** Advanced frontend patterns, API integration, and performance optimization  
+- 🤝 **Open For:** Web development collaborations, freelance projects, and software engineering opportunities  
+- 📬 **Connect with me:** https://www.linkedin.com/in/maheen-khan-85a190287/ • Email : maheeenkhan4@gmail.com
+- 👨‍💻 **Portfolio & Projects:** Check out my repositories [https://github.com/maheeen-khan?tab=repositories](https://github.com/maheeen-khan?tab=repositories)
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/maheeen-khan?tab=repositories](https://github.com/maheeen-khan?tab=repositories)
-
-- 📫 How to reach me **maheeenkhan4@gmail.com**
 
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheeen-khan" alt="maheeen-khan" /></a> </p>
 
