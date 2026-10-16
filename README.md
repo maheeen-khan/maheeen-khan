@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maheen Khan</h1>
-<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack (Frontend) Developer from Pakistan</h3>
 
 
 - 🌱 I’m currently learning **Web and Mobile Application Development**
